@@ -1,0 +1,23 @@
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.country-name {
+    text-align: center;
+    font-size: 35px;
+}
+
+.country-container {
+    font-size: 25px;
+}
+
+.country-item {
+    font-size: 25px;
+}
+
+.flag-container {
+    margin-left: 50px;
+}
